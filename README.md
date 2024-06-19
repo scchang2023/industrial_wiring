@@ -1,2 +1,2 @@
-# Industrial_wiring
+# industrial_wiring
 工業配線_東南
